@@ -1,4 +1,5 @@
-# dngaa.github.io
-## realdunkin.github.io/dunkingames/
-### https://github.com/leereilly/games?tab=readme-ov-file#user-content-boardgame
-#### raninder mann is the owner and it only works for BUSD.NET  students
+# raninder mann is the owner and it only works for BUSD.NET  students
+## dngaa.github.io  <<<<<<<<<<<<< GAME WEBSITE
+## realdunkin.github.io/dunkingames/  <<<<<<<<<<<<<<<<<<<< GAME WEBSITE
+## https://github.com/leereilly/games?tab=readme-ov-file#user-content-boardgame   <<<<<<<<<< GAME WEBSITE
+## https://copilot.microsoft.com/chats/agUMk1CqUYXUTrb98Q4VW   <<<<<<<<< ANSWERS ALL QUESTIONS USEFUL FOR HOMEWORK (RECOMDED)
